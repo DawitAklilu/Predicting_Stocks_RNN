@@ -1,4 +1,4 @@
-# Predicting_Stock_Prices_RNN
+# Predicting_Stocks_RNN
 CMSE 202 capstone project on predicting stock prices using ML
 
 # Question
